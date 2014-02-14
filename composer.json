@@ -1,5 +1,5 @@
 {
-    "name": "f1ames/Image_IPTC",
+    "name": "f1ames/pear_image_iptc",
     "type": "library",
     "description": "This package provides a mechanism for modifying IPTC header information. The class abstracts the functionality of iptcembed() and iptcparse() in addition to providing methods that properly handle replacing IPTC header fields back into image files.",
     "keywords": ["IPTC", "image", "jpg", "jpeg", "png", "pear"],
