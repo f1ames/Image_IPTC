@@ -1,4 +1,4 @@
-**A composer friendly fork of https://github.com/pear/Image_IPTC,  available on packagist https://packagist.org/packages/f1ames/Image_IPTC**
+**A composer friendly fork of https://github.com/pear/Image_IPTC,  available on packagist https://packagist.org/packages/f1ames/pear_image_iptc**
 
 License: http://www.php.net/license/3_0.txt
 
@@ -8,7 +8,7 @@ This package is http://pear.php.net/package/Image_IPTC and has been migrated fro
 Please report all new issues via the PEAR bug tracker.
 
 If this package is marked as unmaintained and you have fixes, please submit your pull requests and start discussion on the pear-qa mailing list.
-
+```
 To test, run either
 $ phpunit tests/
   or
@@ -22,3 +22,4 @@ $ pear install package.xml
 
 To upgrade
 $ pear upgrade -f package.xml
+```
